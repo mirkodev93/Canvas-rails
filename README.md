@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Canvas-rails
-=======
 # Canvas Rails
 
 Canvas is a modern learning management system (LMS) built with Ruby on Rails. It provides a comprehensive platform for educational institutions to manage courses, assignments, grades, and student interactions.
@@ -103,4 +100,3 @@ Canvas follows a modular architecture with:
 - **Gems**: Custom Canvas gems for specific functionality
 
 The application supports multiple deployment environments and can be scaled horizontally for high-traffic educational institutions.
->>>>>>> master
